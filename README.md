@@ -8,6 +8,5 @@ create database AmdocsDB; use user- root password- root;
 Functionalities:
 Add Employee Update Delete
 
-
 Launch project from IntelliJ compiler *** UPDATE YOUR MYSQL PASSWORD IN Application Installed property***
 
