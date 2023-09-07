@@ -1,0 +1,13 @@
+
+j
+java:S1192>"HDefine a constant instead of duplicating this literal "success" 3 times.(ÜÃÕçúÿÿÿÿ8Õ½§ğ¦1
+c
+java:S2259;"AA "NullPointerException" could be thrown; "obj" is nullable here.(“°Èàşÿÿÿÿ8™¼Êğ¦1
+b
+java:S2259G"EA "NullPointerException" could be thrown; "objTemp" is nullable here.(×ãÁÄ8™¼Êğ¦1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³Üù·8å½§ğ¦1
+L	java:S1069"+Replace this use of System.out by a logger.(Ş˜‘üøÿÿÿÿ8í½§ğ¦1
+L	java:S106C"+Replace this use of System.out by a logger.(óòúÿÿÿÿ8î½§ğ¦1
+G	java:S106T"+Replace this use of System.out by a logger.(ËåìÉ8ò½§ğ¦1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8©¼Êğ¦1
